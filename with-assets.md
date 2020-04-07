@@ -1,3 +1,4 @@
 # With assets
 
-![GA logo](./img/GA.jpg)
+![GA logo](.gitbook/assets/ga.jpg)
+
